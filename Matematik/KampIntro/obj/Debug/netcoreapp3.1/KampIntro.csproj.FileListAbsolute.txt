@@ -1,0 +1,13 @@
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.exe
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.deps.json
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.json
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.dev.json
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.dll
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.pdb
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csprojAssemblyReference.cache
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfoInputs.cache
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfo.cs
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csproj.CoreCompileInputs.cache
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.dll
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.pdb
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.genruntimeconfig.cache
