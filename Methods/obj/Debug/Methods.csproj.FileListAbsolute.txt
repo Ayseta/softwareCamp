@@ -1,0 +1,7 @@
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Methods\bin\Debug\Methods.exe.config
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Methods\bin\Debug\Methods.exe
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Methods\bin\Debug\Methods.pdb
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Methods\obj\Debug\Methods.exe
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Methods\obj\Debug\Methods.pdb
