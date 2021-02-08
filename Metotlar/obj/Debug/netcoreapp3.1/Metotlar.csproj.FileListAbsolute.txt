@@ -11,3 +11,16 @@ C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Metotlar\bin\Debug\netcore
 C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
 C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
 C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csprojAssemblyReference.cache
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\Ayse\source\repos\Yazılım Kampı\softwareCamp\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
