@@ -7,11 +7,11 @@ namespace Metotlar
         static void Main(string[] args)
         {
             string urunAdi = "Elma";
-            double fiyati = 15;
-            string aciklama = "Amasya elması";
+            //double fiyati = 15;
+            //string aciklama = "Amasya elması";
 
             Urun urun1 = new Urun();
-            urun1.Adi = "Elma";
+            urun1.Adi = "E";
             urun1.Fiyati = 15;
             urun1.Aciklama = "Amasya elması";
 
