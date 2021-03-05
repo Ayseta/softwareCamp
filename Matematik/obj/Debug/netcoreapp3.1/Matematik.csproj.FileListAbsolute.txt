@@ -1,0 +1,12 @@
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\Ayse\source\repos\Yazılım Kampı\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache
